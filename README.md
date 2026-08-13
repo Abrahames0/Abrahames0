@@ -16,7 +16,7 @@ I lead AI-powered software projects and still write code every day — React, No
 | **[MAF-Watch](https://github.com/Abrahames0/MAF-Watch)** | Custom IoT smartwatch — hardware + mobile app connected over MQTT | Python · Mosquitto · React Native |
 | **[Nucleus](https://github.com/Abrahames0/Nucleus)** | Modern containerized full-stack application | Docker · NestJS · Prisma · PostgreSQL · Nuxt 3 |
 | **[Color-de-Tu-Esencia](https://github.com/Abrahames0/Color-de-Tu-Esencia)** | Personality prediction with neural networks in a modern webapp | Python · React · AWS |
-| **[abraham-portafoliov2](https://github.com/Abrahames0/abraham-portafoliov2)** | The source code of my portfolio | TypeScript |
+| **[abraham-portafoliov2](https://github.com/Abrahames0/abraham-portafoliov2)** | The source code of my portfolio | Astro · TypeScript |
 
 ## 💻 Tech Stack
 
@@ -39,10 +39,6 @@ I lead AI-powered software projects and still write code every day — React, No
 **Design & Tools**
 
 <img src="https://skillicons.dev/icons?i=figma,cypress" height="40" alt="Figma, Cypress" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-
-## 📊 GitHub Activity
-
-<img src="https://ghchart.rshah.org/2ea043/Abrahames0" alt="Abraham's contribution graph" width="100%" />
 
 ## 🌐 Socials
 
